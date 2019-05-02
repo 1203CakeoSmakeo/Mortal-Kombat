@@ -1,0 +1,26 @@
+.item {
+    display: flex;
+    justify-content: space-around;
+}
+body{
+    background-image: url("https://images-na.ssl-images-amazon.com/images/I/61E0pFPOl7L._SL1500_.jpg");
+}
+.button {
+  background-color: #4CAF50; /* Green */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
+
+.btn {
+  background-color: #2196F3;
+  color: white;
+  padding: 16px;
+  font-size: 16px;
+  border: none;
+  outline: none;
+}
